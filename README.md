@@ -1,3 +1,4 @@
+![Cover](./assets/globaltalk-cover.png)
 # global-talk
 
 This is a fully responsive HTML/CSS template called global talk. It provides a basic structure for creating a global talk website. The template includes a header, navigation, main content, and footer sections.
