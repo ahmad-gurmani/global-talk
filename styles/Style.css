@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Montserrat:wght@600;700&family=Outfit&family=Paytone+One&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Montserrat:wght@600;700&family=Outfit&family=Paytone+One&display=swap");
 
 * {
   margin: 0;
@@ -8,7 +7,7 @@
 }
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .container {
@@ -30,11 +29,11 @@ body {
 .divider {
   width: 0px;
   height: 16.87px;
-  border: 1.20466px solid #E0E0E0;
+  border: 1.20466px solid #e0e0e0;
 }
 
 .paragraph {
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -50,7 +49,7 @@ body {
 }
 
 .black-heading {
-  font-family: 'Dela Gothic One';
+  font-family: "Dela Gothic One";
   font-style: normal;
   font-weight: 400;
   letter-spacing: -0.04em;
@@ -64,17 +63,17 @@ button {
   align-items: center;
   padding: 14px 22px;
   gap: 19px;
-  background: #C3DCE3;
+  background: #c3dce3;
   border-radius: 100px;
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 100%;
   letter-spacing: -0.04em;
-  color: #2B788B;
+  color: #2b788b;
   border: none;
-  margin-top: 32PX;
+  margin-top: 32px;
 }
 
 .vocabulary-button {
@@ -83,13 +82,10 @@ button {
   gap: unset;
 }
 
-
-
-
 /* /////////////////////////////////// */
 .header-wraper {
-  background: #F6F5F4;
-  box-shadow: inset 0px -1px 0px #E0E0E0;
+  background: #f6f5f4;
+  box-shadow: inset 0px -1px 0px #e0e0e0;
   height: 88px;
   display: flex;
   align-items: center;
@@ -138,7 +134,7 @@ button {
 .logo {
   width: 130px;
   height: 21px;
-  font-family: 'Dela Gothic One';
+  font-family: "Dela Gothic One";
   font-style: normal;
   font-size: 20.8609px;
   font-weight: 400;
@@ -158,7 +154,7 @@ button {
 .manu-items {
   text-decoration: none;
   height: 22px;
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -166,10 +162,9 @@ button {
   letter-spacing: -0.02em;
   color: #000000;
   text-align: center;
-  opacity: .6;
+  opacity: 0.6;
   text-transform: capitalize;
 }
-
 
 .manu-games {
   display: flex;
@@ -182,14 +177,12 @@ button {
   opacity: 1;
 }
 
-
-
 .signout-profile {
   display: flex;
   justify-content: space-between;
   width: 200px;
   height: 40px;
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
@@ -217,12 +210,12 @@ button {
   width: 40px;
   height: 40px;
   border-radius: 100%;
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 140%;
-  color: #2B788B;
+  color: #2b788b;
   background-color: #c3dce3;
 }
 
@@ -238,7 +231,7 @@ button {
 }
 
 .navbar-items-right:hover {
-  color: #2B788B;
+  color: #2b788b;
   text-decoration: underline;
 }
 
@@ -265,14 +258,14 @@ button {
 }
 
 .blue-heading {
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 100%;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: #2B788B;
+  color: #2b788b;
 }
 
 .section-one-black-heading {
@@ -282,7 +275,7 @@ button {
 }
 
 .about-platform:hover {
-  background: #2B788B;
+  background: #2b788b;
   color: #fff;
 }
 
@@ -310,7 +303,7 @@ button {
 .plustext {
   width: 129px;
   height: 40px;
-  font-family: 'Dela Gothic One';
+  font-family: "Dela Gothic One";
   font-style: normal;
   font-weight: 400;
   font-size: 35px;
@@ -320,11 +313,10 @@ button {
 }
 
 .plus-sign {
-  color: #2B788B;
+  color: #2b788b;
   font-weight: 700;
   font-style: normal;
   font-size: 35px;
-
 }
 
 .section-divider {
@@ -361,7 +353,6 @@ button {
   justify-content: space-between;
   align-items: flex-start;
   gap: 11px;
-
 }
 
 .learn-a-language-sub-container-one {
@@ -408,7 +399,7 @@ button {
   padding: 14px 22px;
   width: 129px;
   height: 112px;
-  background: #F2D4DC;
+  background: #f2d4dc;
   border-radius: 14px;
 }
 
@@ -416,7 +407,7 @@ button {
 .pink-arrow {
   /* width: 61px;
   height: 16px; */
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
@@ -446,13 +437,13 @@ button {
   padding: 14px 22px;
   width: 172px;
   height: 112px;
-  background: #C3DCE3;
-  border-radius: 14px
+  background: #c3dce3;
+  border-radius: 14px;
 }
 
 .audio-call,
 .blue-arrow {
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
@@ -461,12 +452,12 @@ button {
   align-items: center;
   text-align: center;
   letter-spacing: -0.04em;
-  color: #2B788B;
+  color: #2b788b;
 }
 
 /* section 3 Vocabulary????????????? */
 .vocabulary-section {
-  background: #F6F5F4;
+  background: #f6f5f4;
   height: 478px;
   width: 100%;
 }
@@ -491,7 +482,7 @@ button {
 }
 
 .vocabulary-button:hover {
-  background: #2B788B;
+  background: #2b788b;
   color: #fff;
 }
 
@@ -526,7 +517,7 @@ s .vocabulary-girl {
 }
 
 .watch-button:hover {
-  background: #2B788B;
+  background: #2b788b;
   color: #fff;
 }
 
@@ -538,7 +529,7 @@ s .vocabulary-girl {
 .sprint-section {
   height: 640px;
   width: 100%;
-  background: #F6F5F4;
+  background: #f6f5f4;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -600,7 +591,7 @@ s .vocabulary-girl {
 
 .speed-tast-button:hover {
   color: #fff;
-  background-color: #2B788B;
+  background-color: #2b788b;
 }
 
 .sprint-para {
@@ -639,7 +630,7 @@ s .vocabulary-girl {
   padding: 14px 13px;
   gap: 19px;
   border-radius: 100px;
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
@@ -648,38 +639,38 @@ s .vocabulary-girl {
 }
 
 .a1-green {
-  border: 3px solid #639B6D;
-  color: #639B6D;
+  border: 3px solid #639b6d;
+  color: #639b6d;
 }
 
 .a1-yellow {
-  border: 3px solid #C4A24C;
-  color: #C4A24C;
+  border: 3px solid #c4a24c;
+  color: #c4a24c;
 }
 
 .b2-red {
-  border: 3px solid #CB5B43;
-  color: #CB5B43;
+  border: 3px solid #cb5b43;
+  color: #cb5b43;
 }
 
 .b2-dark-red {
-  border: 3px solid #A95151;
-  color: #A95151;
+  border: 3px solid #a95151;
+  color: #a95151;
 }
 
 .c1-perple {
-  border: 3px solid #A15993;
-  color: #A15993;
+  border: 3px solid #a15993;
+  color: #a15993;
 }
 
 .c2-blue {
-  border: 3px solid #5996A5;
-  color: #5996A5;
+  border: 3px solid #5996a5;
+  color: #5996a5;
 }
 
 .get-started {
   margin-top: 30px;
-  background-color: #2B788B;
+  background-color: #2b788b;
   color: #fff;
   width: 136px;
   height: 44px;
@@ -688,8 +679,8 @@ s .vocabulary-girl {
 
 .get-started:hover {
   background-color: #fff;
-  border: 2px solid #2B788B;
-  color: #2B788B;
+  border: 2px solid #2b788b;
+  color: #2b788b;
 }
 
 /* section 6 Two cards ??????????????????????? */
@@ -700,8 +691,7 @@ s .vocabulary-girl {
   justify-content: center;
   width: 100%;
   height: 600px;
-  background: #F6F5F4;
-
+  background: #f6f5f4;
 }
 
 .card-container-main {
@@ -709,7 +699,6 @@ s .vocabulary-girl {
   justify-content: space-between;
   align-items: center;
   gap: 10px;
-
 }
 
 .card-container {
@@ -749,7 +738,6 @@ s .vocabulary-girl {
   height: 200px;
 }
 
-
 .your-audio-call {
   display: flex;
   align-items: center;
@@ -786,7 +774,6 @@ s .vocabulary-girl {
   border: 5px solid #945069;
   border-radius: 100%;
 }
-
 
 .same-main {
   display: flex;
@@ -828,7 +815,7 @@ s .vocabulary-girl {
 }
 
 .twenty-words-outer {
-  border: 5px solid #639B6D;
+  border: 5px solid #639b6d;
 }
 
 .play-again {
@@ -858,7 +845,7 @@ s .vocabulary-girl {
 
 .textbook-button:hover {
   color: #fff;
-  background-color: #2B788B;
+  background-color: #2b788b;
 }
 
 /* card 2 music???????????????? */
@@ -905,7 +892,7 @@ s .vocabulary-girl {
 
 .music-list-button:hover {
   color: #fff;
-  background: #2B788B;
+  background: #2b788b;
 }
 
 .music-list-main {
@@ -915,7 +902,7 @@ s .vocabulary-girl {
   flex-direction: column;
   overflow: auto;
   width: 252px;
-  height: 256px
+  height: 256px;
 }
 
 .icon-title {
@@ -934,14 +921,14 @@ s .vocabulary-girl {
   font-size: 18px;
   width: 40px;
   height: 40px;
-  background: #F6F5F4;
-  color: #BABABA;
+  background: #f6f5f4;
+  color: #bababa;
   border-radius: 4px;
 }
 
 .music-icon:hover {
   color: #fff;
-  background: #2B788B;
+  background: #2b788b;
 }
 
 .song-title {
@@ -960,12 +947,12 @@ s .vocabulary-girl {
 
 .fif-words-button {
   color: #945069;
-  background: #F2D4DC;
+  background: #f2d4dc;
 }
 
 .fif-words-button:hover {
   background-color: #945069;
-  color: #FFF;
+  color: #fff;
 }
 
 /* section 7 food ????????????????????? */
@@ -976,14 +963,14 @@ s .vocabulary-girl {
   align-items: center;
   width: 100%;
   height: 701px;
-  background: #F6F5F4;
+  background: #f6f5f4;
 }
 
 .food-inside-container {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #F6F5F4;
+  background: #f6f5f4;
 }
 
 .food-container-main {
@@ -1040,7 +1027,7 @@ s .vocabulary-girl {
   line-height: 140%;
   width: 235px;
   height: 60px;
-  background: #FFFFFF;
+  background: #ffffff;
   box-shadow: 0px 22.8981px 45.7963px -11.4491px rgba(52, 41, 39, 0.08);
   border-radius: 88px;
 }
@@ -1066,16 +1053,12 @@ s .vocabulary-girl {
 .food-heart {
   font-size: 32px;
   line-height: 100%;
-  color: #A95151;
+  color: #a95151;
 }
 
 .five-heart {
-  color: #F2D4DC;
+  color: #f2d4dc;
 }
-
-
-
-
 
 /* options div /////////// */
 .options-main {
@@ -1097,7 +1080,7 @@ s .vocabulary-girl {
   align-items: center;
   padding: 11px 10px;
   gap: 19px;
-  border: 3px solid #BABABA;
+  border: 3px solid #bababa;
   border-radius: 100px;
 }
 
@@ -1125,26 +1108,24 @@ s .vocabulary-girl {
 .fifth {
   width: 107px;
   height: 44px;
-  border: 3px solid #2B788B;
+  border: 3px solid #2b788b;
 }
-
 
 .options-para {
   padding: 0;
   font-size: 16px;
   line-height: 100%;
-  color: #BABABA;
+  color: #bababa;
   font-weight: 700;
 }
 
 .food-blue {
-  color: #2B788B;
+  color: #2b788b;
 }
 
 .food-pink {
   color: #945069;
 }
-
 
 /* button div /////////// */
 .food-button-main {
@@ -1163,7 +1144,7 @@ s .vocabulary-girl {
 
 .food-button:hover {
   color: #fff;
-  background-color: #2B788B;
+  background-color: #2b788b;
 }
 
 /* food-para div /////////// */
@@ -1179,7 +1160,6 @@ s .vocabulary-girl {
   font-size: 12px;
   line-height: 100%;
   padding: 0px;
-
 }
 
 .staric {
@@ -1189,8 +1169,13 @@ s .vocabulary-girl {
 .number-para {
   padding: 4px 8px;
   border-radius: 5px;
-  background: #FFFFFF;
-  box-shadow: 0px 343.472px 343.472px rgba(52, 41, 39, 0.08), 0px 183.185px 183.185px rgba(52, 41, 39, 0.12), 0px 91.5925px 91.5925px rgba(52, 41, 39, 0.04), 0px 68.6944px 68.6944px rgba(52, 41, 39, 0.04), 0px 11.4491px 68.6944px rgba(52, 41, 39, 0.04), 0px 11.4491px 11.4491px rgba(52, 41, 39, 0.04);
+  background: #ffffff;
+  box-shadow: 0px 343.472px 343.472px rgba(52, 41, 39, 0.08),
+    0px 183.185px 183.185px rgba(52, 41, 39, 0.12),
+    0px 91.5925px 91.5925px rgba(52, 41, 39, 0.04),
+    0px 68.6944px 68.6944px rgba(52, 41, 39, 0.04),
+    0px 11.4491px 68.6944px rgba(52, 41, 39, 0.04),
+    0px 11.4491px 11.4491px rgba(52, 41, 39, 0.04);
 }
 
 /* section No 8  about //////////////////////// */
@@ -1201,7 +1186,7 @@ s .vocabulary-girl {
   align-items: center;
   width: 100%;
   height: 1120px;
-  background: #F6F5F4;
+  background: #f6f5f4;
 }
 
 .about-main {
@@ -1222,7 +1207,7 @@ s .vocabulary-girl {
   width: 800px;
   height: 280px;
 
-  background: #FFFFFF;
+  background: #ffffff;
   /* Shadow 2 */
 
   box-shadow: 0px 22.8981px 45.7963px -11.4491px rgba(52, 41, 39, 0.08);
@@ -1256,19 +1241,18 @@ s .vocabulary-girl {
   gap: 10px;
   width: 56px;
   height: 25px;
-  background: #2B788B;
+  background: #2b788b;
   border-radius: 6px;
-  color: #FFF;
+  color: #fff;
   margin-top: 0;
   font-size: 12px;
   line-height: 140%;
-
 }
 
 .github-button:hover {
-  color: #2B788B;
+  color: #2b788b;
   border: 1px solid#2B788B;
-  background-color: #FFF;
+  background-color: #fff;
 }
 
 .about-para {
@@ -1285,7 +1269,7 @@ s .vocabulary-girl {
   align-items: center;
   width: 100%;
   height: 2424px;
-  background: #F6F5F4;
+  background: #f6f5f4;
 }
 
 .classbook-main {
@@ -1315,7 +1299,7 @@ s .vocabulary-girl {
   width: 1180px;
   height: 84px;
 
-  background: #FFFFFF;
+  background: #ffffff;
   border-radius: 14px;
 }
 
@@ -1351,7 +1335,7 @@ s .vocabulary-girl {
 
 .book-icon {
   font-size: 22px;
-  color: #BABABA;
+  color: #bababa;
 }
 
 .dictionary-heading {
@@ -1380,14 +1364,14 @@ s .vocabulary-girl {
 }
 
 .classbook-sprint {
-  background: #F2D4DC;
+  background: #f2d4dc;
   color: #945069;
   gap: 9px;
 }
 
 .classbook-sprint:hover {
   background: #945069;
-  color: #F2D4DC;
+  color: #f2d4dc;
 }
 
 .pink-blue-image {
@@ -1401,19 +1385,18 @@ s .vocabulary-girl {
   font-size: 16px;
   font-weight: 700;
   padding: 0;
-
 }
 
 .classbook-call {
   width: 178px;
-  background: #C3DCE3;
-  color: #2B788B;
+  background: #c3dce3;
+  color: #2b788b;
   font-weight: 700;
 }
 
 .classbook-call:hover {
-  color: #C3DCE3;
-  background: #2B788B;
+  color: #c3dce3;
+  background: #2b788b;
 }
 
 .setting-icon {
@@ -1422,14 +1405,14 @@ s .vocabulary-girl {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #F6F5F4;
+  background: #f6f5f4;
   border-radius: 4px;
-  color: #BABABA;
+  color: #bababa;
 }
 
 .setting-icon:hover {
-  color: #F6F5F4;
-  background: #BABABA;
+  color: #f6f5f4;
+  background: #bababa;
 }
 
 .classbook-category {
@@ -1445,7 +1428,7 @@ s .vocabulary-girl {
   align-items: center;
   gap: 12px;
   justify-content: space-between;
-  border-bottom: 3px solid #F6F5F4;
+  border-bottom: 3px solid #f6f5f4;
 }
 
 .category:hover {
@@ -1475,32 +1458,32 @@ s .vocabulary-girl {
 }
 
 .a-button {
-  color: #639B6D;
+  color: #639b6d;
   background: rgba(99, 155, 109, 0.3);
 }
 
 .category:hover .a-button {
   color: #fff;
-  background-color: #639B6D;
+  background-color: #639b6d;
 }
 
 .b-button {
-  color: #C4A24C;
+  color: #c4a24c;
   background: rgba(196, 162, 76, 0.3);
 }
 
 .category:hover .b-button {
-  background-color: #C4A24C;
+  background-color: #c4a24c;
   color: #fff;
 }
 
 .c-button {
-  color: #CB5B43;
+  color: #cb5b43;
   background: rgba(203, 91, 67, 0.3);
 }
 
 .category:hover .c-button {
-  background-color: #CB5B43;
+  background-color: #cb5b43;
   color: #fff;
 }
 
@@ -1520,7 +1503,6 @@ s .vocabulary-girl {
   flex-direction: row;
   gap: 20px;
   margin-top: 20px;
-
 }
 
 .card-rows {
@@ -1531,16 +1513,15 @@ s .vocabulary-girl {
   /* gap: 20px; */
   width: 380px;
   height: 652px;
-  background: #FFFFFF;
+  background: #ffffff;
   box-shadow: 0px 22.8981px 45.7963px -11.4491px rgba(52, 41, 39, 0.08);
   border-radius: 14px;
   position: relative;
 }
 
 .background-img {
-
   width: 380px;
-  Height: 250px;
+  height: 250px;
   border-top-left-radius: 14px;
   border-top-right-radius: 14px;
 }
@@ -1567,7 +1548,7 @@ s .vocabulary-girl {
   align-items: center;
   justify-content: space-between;
   color: #fff;
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -1614,7 +1595,6 @@ s .vocabulary-girl {
   color: #757575;
 }
 
-
 .para-buttton-of-card {
   display: flex;
   align-items: center;
@@ -1634,20 +1614,20 @@ s .vocabulary-girl {
   justify-content: center;
   align-items: center;
   padding: 4px 12px;
-  background: #CB5B43;
+  background: #cb5b43;
   border-radius: 4px;
   margin-top: 0;
   font-weight: 600;
   font-size: 14px;
   line-height: 1.4;
-  color: #F6F5F4;
-  border: 2px solid #CB5B43;
+  color: #f6f5f4;
+  border: 2px solid #cb5b43;
 }
 
 .compound-button:hover {
-  border: 2px solid #CB5B43;
-  background: #FFF;
-  color: #CB5B43;
+  border: 2px solid #cb5b43;
+  background: #fff;
+  color: #cb5b43;
 }
 
 .para-of-card {
@@ -1667,7 +1647,7 @@ s .vocabulary-girl {
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 1.21942px solid #E0E0E0;
+  border: 1.21942px solid #e0e0e0;
 }
 
 .buttons-of-card {
@@ -1681,20 +1661,20 @@ s .vocabulary-girl {
 
 .add-to-learn {
   padding: 6px 20px;
-  background: #639B6D;
+  background: #639b6d;
   border-radius: 100px;
   font-weight: 600;
   font-size: 14px;
   line-height: 140%;
-  color: #F6F5F4;
+  color: #f6f5f4;
   margin-top: 0;
-  border: 2px solid #639B6D;
+  border: 2px solid #639b6d;
 }
 
 .add-to-learn:hover {
-  color: #639B6D;
-  background: #F6F5F4;
-  border: 2px solid #639B6D;
+  color: #639b6d;
+  background: #f6f5f4;
+  border: 2px solid #639b6d;
 }
 
 .remove-from-dictionary {
@@ -1704,13 +1684,13 @@ s .vocabulary-girl {
   font-weight: 600;
   font-size: 14px;
   line-height: 140%;
-  color: #CB5B43;
+  color: #cb5b43;
   margin-top: 0;
 }
 
 .remove-from-dictionary:hover {
-  background: #CB5B43;
-  color: #F6F5F4;
+  background: #cb5b43;
+  color: #f6f5f4;
 }
 
 .classbook-next-page {
@@ -1732,7 +1712,7 @@ s .vocabulary-girl {
 }
 
 .classbook-last-card:hover {
-  color: #2B788B;
+  color: #2b788b;
   text-decoration: underline;
 }
 
@@ -1751,28 +1731,28 @@ s .vocabulary-girl {
   justify-content: center;
   width: 44px;
   height: 44px;
-  border: 3px solid #5996A5;
+  border: 3px solid #5996a5;
   border-radius: 100px;
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 100%;
   letter-spacing: -0.04em;
-  color: #5996A5;
+  color: #5996a5;
 }
 
 .page-circle:hover {
   color: #fff;
-  background-color: #2B788B;
-  border: 3px solid #2B788B;
+  background-color: #2b788b;
+  border: 3px solid #2b788b;
 }
 
 .classbook-dots {
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -1783,7 +1763,7 @@ s .vocabulary-girl {
 
 /* footer ??????????????????????????????????????? */
 .footer-main {
-  background-color: #F6F5F4;
+  background-color: #f6f5f4;
   width: 100%;
 }
 
@@ -1809,7 +1789,7 @@ s .vocabulary-girl {
 
 .nav-container a {
   text-decoration: none;
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 600;
   font-size: 14px;
@@ -1821,11 +1801,11 @@ s .vocabulary-girl {
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 1.20466px solid #E0E0E0;
+  border: 1.20466px solid #e0e0e0;
 }
 
 footer {
-  background-color: #F6F5F4;
+  background-color: #f6f5f4;
 }
 
 .footer-container {
@@ -1853,7 +1833,6 @@ footer {
 
 /* 1st size of media Query from mobile to large size of lcd////////////////////////// */
 @media (max-width: 479px) and (min-width: 320px) {
-
   /* header ///////////////////// */
   .header-wraper {
     /* width: auto; */
@@ -2183,7 +2162,6 @@ footer {
     gap: 8px;
   }
 
-
   .vocabulary-sub-container-one {
     display: flex;
     flex-direction: column;
@@ -2296,7 +2274,7 @@ footer {
   }
 
   .sprint-sub-container-one {
-    background-color: #F2D4DC;
+    background-color: #f2d4dc;
     border-radius: 50%;
     width: 60px;
     height: 60px;
@@ -2348,7 +2326,6 @@ footer {
     margin-top: 20px;
     width: 295px;
     height: 72px;
-
   }
 
   .level-para {
@@ -2446,7 +2423,7 @@ footer {
   }
 
   .remains-lives-outer {
-    border: 5px solid #2B788B;
+    border: 5px solid #2b788b;
   }
 
   .remains-para {
@@ -2646,7 +2623,6 @@ footer {
     width: 149px;
     height: 38px;
     letter-spacing: -0.04em;
-
   }
 
   .options-para {
@@ -2679,7 +2655,6 @@ footer {
     content: "I don't know";
     text-indent: 0;
     line-height: initial;
-
   }
 
   .food-sub-container-two {
@@ -2723,7 +2698,6 @@ footer {
 
   .about-heading {
     font-size: 24px;
-
   }
 
   .github-button {
@@ -2740,7 +2714,6 @@ footer {
     height: 5062px;
     /* height: 747.44px; */
     /* width: 375px; */
-
   }
 
   .classbook-main {
@@ -2763,7 +2736,6 @@ footer {
     width: 335px;
     height: 123px;
     padding: 20px;
-
   }
 
   .textbook-dictionary {
@@ -2778,8 +2750,8 @@ footer {
 
   .classbook-icon {
     font-size: 17px;
-    Width: 21px;
-    Height: 17.91px;
+    width: 21px;
+    height: 17.91px;
   }
 
   .classbook-heading {
@@ -2796,7 +2768,6 @@ footer {
 
   .sprint-call-icon {
     gap: 4.84px;
-
   }
 
   .classbook-sprint {
@@ -2804,7 +2775,6 @@ footer {
     width: 114.5px;
     height: 34.51px;
   }
-
 
   .pink-blue-image {
     height: 34.51px;
@@ -2827,7 +2797,7 @@ footer {
   .setting-icon {
     width: 31.37px;
     height: 31.37px;
-    background: #2B788B;
+    background: #2b788b;
   }
 
   .classbook-category {
@@ -2835,21 +2805,16 @@ footer {
     width: 335px;
     gap: 25px;
     justify-content: flex-start;
-
-
   }
 
   .category {
     gap: 8px;
-    border-bottom: 1.5px solid #F6F5F4;
-    ;
+    border-bottom: 1.5px solid #f6f5f4;
   }
 
   .category:hover {
     border-bottom: 1.5px solid #000000;
   }
-
-
 
   .category-heading {
     font-size: 18px;
@@ -2897,15 +2862,14 @@ footer {
 
   .bookmark-icon {
     gap: 9.8px;
-
   }
 
-  .bookmark-icon>.para-number {
+  .bookmark-icon > .para-number {
     text-indent: -9999px;
     line-height: 0;
   }
 
-  .bookmark-icon>.para-number::after {
+  .bookmark-icon > .para-number::after {
     content: "124";
     text-indent: 0px;
     line-height: 0;
@@ -2916,12 +2880,12 @@ footer {
     gap: 11px;
   }
 
-  .star-icon>.para-number {
+  .star-icon > .para-number {
     text-indent: -9999px;
     line-height: 0;
   }
 
-  .star-icon>.para-number::after {
+  .star-icon > .para-number::after {
     content: "4";
     text-indent: 0px;
     line-height: 0;
@@ -2943,7 +2907,6 @@ footer {
     display: flex;
     justify-content: space-between;
     width: 295px;
-
   }
 
   .card-music-icon {
@@ -2968,7 +2931,6 @@ footer {
   .para-buttton-of-card {
     margin: 0;
     padding: 0;
-
   }
 
   .classbook-para {
@@ -3019,13 +2981,12 @@ footer {
 
   .page-circle {
     width: 30px;
-    height: 30px
+    height: 30px;
   }
 
   /* footer //////////////////////////////////////// */
   footer {
     height: 543px;
-
   }
 
   .footer-main {
@@ -3059,7 +3020,8 @@ footer {
     margin-top: 20px;
   }
 
-  .footer-section-two {}
+  .footer-section-two {
+  }
 
   .footer-container {
     flex-direction: column;
@@ -3075,16 +3037,14 @@ footer {
     height: 24px;
   }
 
-  .footer-sub-container-two>.footer-para {
+  .footer-sub-container-two > .footer-para {
     font-size: 10px;
     padding: 0;
   }
-
 }
 
 /* 2nd size of media Query from mobile to large size of lcd////////////////////////// */
 @media (max-width: 567px) and (min-width: 480px) {
-
   /* header ///////////////////// */
   .header-wraper {
     /* width: auto; */
@@ -3434,7 +3394,6 @@ footer {
     gap: 12px;
   }
 
-
   .vocabulary-sub-container-one {
     display: flex;
     flex-direction: column;
@@ -3546,7 +3505,7 @@ footer {
   }
 
   .sprint-sub-container-one {
-    background-color: #F2D4DC;
+    background-color: #f2d4dc;
     border-radius: 50%;
     width: 65px;
     height: 65px;
@@ -3599,7 +3558,6 @@ footer {
     margin-top: 20px;
     width: 440px;
     height: 79px;
-
   }
 
   .level-para {
@@ -3695,11 +3653,11 @@ footer {
     margin-top: 14px;
     justify-content: center;
     align-items: center;
-    gap: 30px
+    gap: 30px;
   }
 
   .remains-lives-outer {
-    border: 5px solid #2B788B;
+    border: 5px solid #2b788b;
   }
 
   .remains-para {
@@ -3792,7 +3750,6 @@ footer {
     width: 480px;
     padding: 20px;
     height: 616px;
-
   }
 
   .card-header {
@@ -3907,7 +3864,6 @@ footer {
     width: 155px;
     height: 38px;
     letter-spacing: -0.04em;
-
   }
 
   .options-para {
@@ -3940,7 +3896,6 @@ footer {
     content: "I don't know";
     text-indent: 0;
     line-height: initial;
-
   }
 
   .food-sub-container-two {
@@ -3984,7 +3939,6 @@ footer {
 
   .about-heading {
     font-size: 26px;
-
   }
 
   .github-button {
@@ -4025,7 +3979,6 @@ footer {
     width: 480px;
     height: 132px;
     padding: 20px;
-
   }
 
   .textbook-dictionary {
@@ -4042,8 +3995,8 @@ footer {
 
   .classbook-icon {
     font-size: 20px;
-    Width: 24px;
-    Height: 21px;
+    width: 24px;
+    height: 21px;
   }
 
   .classbook-heading {
@@ -4064,7 +4017,6 @@ footer {
     gap: 10.84px;
     width: 380px;
     justify-content: center;
-
   }
 
   .classbook-sprint {
@@ -4072,7 +4024,6 @@ footer {
     width: 116.5px;
     height: 36.51px;
   }
-
 
   .pink-blue-image {
     height: 36.51px;
@@ -4095,7 +4046,7 @@ footer {
   .setting-icon {
     width: 33.37px;
     height: 36.37px;
-    background: #2B788B;
+    background: #2b788b;
   }
 
   .classbook-category {
@@ -4103,21 +4054,16 @@ footer {
     width: 400px;
     gap: 25px;
     justify-content: flex-start;
-
-
   }
 
   .category {
     gap: 10px;
-    border-bottom: 2.5px solid #F6F5F4;
-    ;
+    border-bottom: 2.5px solid #f6f5f4;
   }
 
   .category:hover {
     border-bottom: 2.5px solid #000000;
   }
-
-
 
   .category-heading {
     font-size: 19px;
@@ -4167,12 +4113,12 @@ footer {
     gap: 8.8px;
   }
 
-  .bookmark-icon>.para-number {
+  .bookmark-icon > .para-number {
     text-indent: -9999px;
     line-height: 0;
   }
 
-  .bookmark-icon>.para-number::after {
+  .bookmark-icon > .para-number::after {
     content: "124";
     text-indent: 0px;
     line-height: 0;
@@ -4183,12 +4129,12 @@ footer {
     gap: 11px;
   }
 
-  .star-icon>.para-number {
+  .star-icon > .para-number {
     text-indent: -9999px;
     line-height: 0;
   }
 
-  .star-icon>.para-number::after {
+  .star-icon > .para-number::after {
     content: "4";
     text-indent: 0px;
     line-height: 0;
@@ -4210,7 +4156,6 @@ footer {
     display: flex;
     justify-content: space-between;
     width: 315px;
-
   }
 
   .card-music-icon {
@@ -4282,7 +4227,7 @@ footer {
 
   .page-circle {
     width: 33px;
-    height: 33px
+    height: 33px;
   }
 
   /* footer //////////////////////////////////////// */
@@ -4293,13 +4238,10 @@ footer {
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-
-
   }
 
   .footer-main {
     gap: 20px;
-
   }
 
   .footer-section-one {
@@ -4352,7 +4294,7 @@ footer {
     height: 24px;
   }
 
-  .footer-sub-container-two>.footer-para {
+  .footer-sub-container-two > .footer-para {
     font-size: 12px;
     padding: 0;
   }
@@ -4360,7 +4302,6 @@ footer {
 
 /* 3rd size of media Query from mobile to large size of lcd////////////////////////// */
 @media (max-width: 684px) and (min-width: 568px) {
-
   /* header ///////////////////// */
   .header-wraper {
     /* width: auto; */
@@ -4713,7 +4654,6 @@ footer {
     gap: 14px;
   }
 
-
   .vocabulary-sub-container-one {
     display: flex;
     flex-direction: column;
@@ -4825,7 +4765,7 @@ footer {
   }
 
   .sprint-sub-container-one {
-    background-color: #F2D4DC;
+    background-color: #f2d4dc;
     border-radius: 50%;
     width: 70px;
     height: 70px;
@@ -4878,7 +4818,6 @@ footer {
     margin-top: 22px;
     width: 457px;
     height: 80px;
-
   }
 
   .level-para {
@@ -4974,11 +4913,11 @@ footer {
     margin-top: 16px;
     justify-content: center;
     align-items: center;
-    gap: 35px
+    gap: 35px;
   }
 
   .remains-lives-outer {
-    border: 5px solid #2B788B;
+    border: 5px solid #2b788b;
   }
 
   .remains-para {
@@ -5052,7 +4991,6 @@ footer {
 
   .lives-words-para {
     padding: 12px 0 0 0;
-
   }
 
   .play-again {
@@ -5076,7 +5014,6 @@ footer {
     width: 590px;
     padding: 20px;
     height: 636px;
-
   }
 
   .card-header {
@@ -5193,7 +5130,6 @@ footer {
     width: 174px;
     height: 41px;
     letter-spacing: -0.04em;
-
   }
 
   .options-para {
@@ -5226,7 +5162,6 @@ footer {
     content: "I don't know";
     text-indent: 0;
     line-height: initial;
-
   }
 
   .food-sub-container-two {
@@ -5270,7 +5205,6 @@ footer {
 
   .about-heading {
     font-size: 24px;
-
   }
 
   .github-button {
@@ -5312,7 +5246,6 @@ footer {
     width: 570px;
     height: 144px;
     padding: 20px;
-
   }
 
   .textbook-dictionary {
@@ -5329,8 +5262,8 @@ footer {
 
   .classbook-icon {
     font-size: 22px;
-    Width: 28px;
-    Height: 23px;
+    width: 28px;
+    height: 23px;
   }
 
   .classbook-heading {
@@ -5351,7 +5284,6 @@ footer {
     gap: 15.84px;
     width: 410px;
     justify-content: center;
-
   }
 
   .classbook-sprint {
@@ -5359,7 +5291,6 @@ footer {
     width: 118.5px;
     height: 38.51px;
   }
-
 
   .pink-blue-image {
     height: 38.51px;
@@ -5382,7 +5313,7 @@ footer {
   .setting-icon {
     width: 35.37px;
     height: 38.37px;
-    background: #2B788B;
+    background: #2b788b;
   }
 
   .classbook-category {
@@ -5390,21 +5321,16 @@ footer {
     width: 430px;
     gap: 30px;
     justify-content: flex-start;
-
-
   }
 
   .category {
     gap: 10px;
-    border-bottom: 2.5px solid #F6F5F4;
-    ;
+    border-bottom: 2.5px solid #f6f5f4;
   }
 
   .category:hover {
     border-bottom: 2.5px solid #000000;
   }
-
-
 
   .category-heading {
     font-size: 21px;
@@ -5454,12 +5380,12 @@ footer {
     gap: 8.8px;
   }
 
-  .bookmark-icon>.para-number {
+  .bookmark-icon > .para-number {
     text-indent: -9999px;
     line-height: 0;
   }
 
-  .bookmark-icon>.para-number::after {
+  .bookmark-icon > .para-number::after {
     content: "124";
     text-indent: 0px;
     line-height: 0;
@@ -5470,12 +5396,12 @@ footer {
     gap: 11px;
   }
 
-  .star-icon>.para-number {
+  .star-icon > .para-number {
     text-indent: -9999px;
     line-height: 0;
   }
 
-  .star-icon>.para-number::after {
+  .star-icon > .para-number::after {
     content: "4";
     text-indent: 0px;
     line-height: 0;
@@ -5497,7 +5423,6 @@ footer {
     display: flex;
     justify-content: space-between;
     width: 395px;
-
   }
 
   .card-music-icon {
@@ -5569,7 +5494,7 @@ footer {
 
   .page-circle {
     width: 33px;
-    height: 33px
+    height: 33px;
   }
 
   /* footer //////////////////////////////////////// */
@@ -5630,7 +5555,7 @@ footer {
     height: 24px;
   }
 
-  .footer-sub-container-two>.footer-para {
+  .footer-sub-container-two > .footer-para {
     font-size: 14px;
     padding: 0;
   }
@@ -5638,7 +5563,6 @@ footer {
 
 /* 4rd size of media Query from mobile to large size of lcd////////////////////////// */
 @media (max-width: 767px) and (min-width: 685px) {
-
   .header-wraper {
     height: 80px;
   }
@@ -5986,7 +5910,6 @@ footer {
     gap: 14px;
   }
 
-
   .vocabulary-sub-container-one {
     display: flex;
     flex-direction: column;
@@ -6097,7 +6020,7 @@ footer {
   }
 
   .sprint-sub-container-one {
-    background-color: #F2D4DC;
+    background-color: #f2d4dc;
     border-radius: 50%;
     width: 70px;
     height: 70px;
@@ -6150,7 +6073,6 @@ footer {
     margin-top: 22px;
     width: 457px;
     height: 80px;
-
   }
 
   .level-para {
@@ -6243,11 +6165,11 @@ footer {
     margin-top: 16px;
     justify-content: center;
     align-items: center;
-    gap: 35px
+    gap: 35px;
   }
 
   .remains-lives-outer {
-    border: 5px solid #2B788B;
+    border: 5px solid #2b788b;
   }
 
   .remains-para {
@@ -6320,7 +6242,6 @@ footer {
 
   .lives-words-para {
     padding: 12px 0 0 0;
-
   }
 
   .play-again {
@@ -6344,7 +6265,6 @@ footer {
     width: 620px;
     padding: 20px;
     height: 636px;
-
   }
 
   .card-header {
@@ -6461,7 +6381,6 @@ footer {
     width: 174px;
     height: 41px;
     letter-spacing: -0.04em;
-
   }
 
   .options-para {
@@ -6494,10 +6413,10 @@ footer {
     content: "I don't know";
     text-indent: 0;
     line-height: initial;
-
   }
 
-  .food-sub-container-two {}
+  .food-sub-container-two {
+  }
 
   .food-para {
     font-size: 17px;
@@ -6541,7 +6460,6 @@ footer {
 
   .about-heading {
     font-size: 24px;
-
   }
 
   .github-button {
@@ -6583,7 +6501,6 @@ footer {
     width: 600px;
     height: 150px;
     padding: 20px;
-
   }
 
   .textbook-dictionary {
@@ -6600,8 +6517,8 @@ footer {
 
   .classbook-icon {
     font-size: 22px;
-    Width: 28px;
-    Height: 23px;
+    width: 28px;
+    height: 23px;
   }
 
   .classbook-heading {
@@ -6622,7 +6539,6 @@ footer {
     gap: 15.84px;
     width: 410px;
     justify-content: center;
-
   }
 
   .classbook-sprint {
@@ -6630,7 +6546,6 @@ footer {
     width: 118.5px;
     height: 38.51px;
   }
-
 
   .pink-blue-image {
     height: 38.51px;
@@ -6653,7 +6568,7 @@ footer {
   .setting-icon {
     width: 35.37px;
     height: 38.37px;
-    background: #2B788B;
+    background: #2b788b;
   }
 
   .classbook-category {
@@ -6661,21 +6576,16 @@ footer {
     width: 470px;
     gap: 30px;
     justify-content: flex-start;
-
-
   }
 
   .category {
     gap: 10px;
-    border-bottom: 2.5px solid #F6F5F4;
-    ;
+    border-bottom: 2.5px solid #f6f5f4;
   }
 
   .category:hover {
     border-bottom: 2.5px solid #000000;
   }
-
-
 
   .category-heading {
     font-size: 21px;
@@ -6725,12 +6635,12 @@ footer {
     gap: 8.8px;
   }
 
-  .bookmark-icon>.para-number {
+  .bookmark-icon > .para-number {
     text-indent: -9999px;
     line-height: 0;
   }
 
-  .bookmark-icon>.para-number::after {
+  .bookmark-icon > .para-number::after {
     content: "124";
     text-indent: 0px;
     line-height: 0;
@@ -6741,12 +6651,12 @@ footer {
     gap: 11px;
   }
 
-  .star-icon>.para-number {
+  .star-icon > .para-number {
     text-indent: -9999px;
     line-height: 0;
   }
 
-  .star-icon>.para-number::after {
+  .star-icon > .para-number::after {
     content: "4";
     text-indent: 0px;
     line-height: 0;
@@ -6767,7 +6677,6 @@ footer {
     display: flex;
     justify-content: space-between;
     width: 415px;
-
   }
 
   .card-music-icon {
@@ -6839,7 +6748,7 @@ footer {
 
   .page-circle {
     width: 33px;
-    height: 33px
+    height: 33px;
   }
 
   /* footer //////////////////////////////////////// */
@@ -6906,7 +6815,7 @@ footer {
     height: 24px;
   }
 
-  .footer-sub-container-two>.footer-para {
+  .footer-sub-container-two > .footer-para {
     font-size: 16px;
     padding: 0;
   }
@@ -6914,7 +6823,6 @@ footer {
 
 /* 5th size of media Query from mobile to large size of lcd////////////////////////// */
 @media (max-width: 991px) and (min-width: 768px) {
-
   .header-wraper {
     height: 80px;
   }
@@ -7252,7 +7160,6 @@ footer {
     gap: 14px;
   }
 
-
   .vocabulary-sub-container-one {
     display: flex;
     flex-direction: column;
@@ -7466,7 +7373,7 @@ footer {
   }
 
   .books-or-cap {
-    content: url('/assets/images/image\ 33\ a.png');
+    content: url("/assets/images/image\ 33\ a.png");
   }
 
   .your-audio-call {
@@ -7487,11 +7394,11 @@ footer {
     margin-top: 16px;
     justify-content: center;
     align-items: center;
-    gap: 35px
+    gap: 35px;
   }
 
   .remains-lives-outer {
-    border: 5px solid #2B788B;
+    border: 5px solid #2b788b;
   }
 
   .same-main {
@@ -7642,7 +7549,6 @@ footer {
     line-height: 100%;
     padding: 12px 13px;
     letter-spacing: -0.04em;
-
   }
 
   .options-para {
@@ -7674,7 +7580,6 @@ footer {
     content: "I don't know";
     text-indent: 0;
     line-height: initial;
-
   }
 
   .food-para {
@@ -7719,7 +7624,6 @@ footer {
 
   .about-heading {
     font-size: 26px;
-
   }
 
   .github-button {
@@ -7774,8 +7678,8 @@ footer {
 
   .classbook-icon {
     font-size: 22px;
-    Width: 28px;
-    Height: 23px;
+    width: 28px;
+    height: 23px;
   }
 
   .classbook-heading {
@@ -7796,7 +7700,6 @@ footer {
     gap: 7.84px;
     width: 410px;
     justify-content: center;
-
   }
 
   .classbook-sprint {
@@ -7804,7 +7707,6 @@ footer {
     width: 118.5px;
     height: 38.51px;
   }
-
 
   .pink-blue-image {
     height: 38.51px;
@@ -7827,7 +7729,7 @@ footer {
   .setting-icon {
     width: 35.37px;
     height: 38.37px;
-    background: #2B788B;
+    background: #2b788b;
   }
 
   .classbook-category {
@@ -7835,21 +7737,16 @@ footer {
     width: 595px;
     gap: 25px;
     justify-content: flex-start;
-
-
   }
 
   .category {
     gap: 10px;
-    border-bottom: 2.5px solid #F6F5F4;
-    ;
+    border-bottom: 2.5px solid #f6f5f4;
   }
 
   .category:hover {
     border-bottom: 2.5px solid #000000;
   }
-
-
 
   .category-heading {
     font-size: 21px;
@@ -7919,7 +7816,6 @@ footer {
     display: flex;
     justify-content: space-between;
     width: 310px;
-
   }
 
   .card-music-icon {
@@ -7991,7 +7887,7 @@ footer {
 
   .page-circle {
     width: 33px;
-    height: 33px
+    height: 33px;
   }
 
   /* footer //////////////////////////////////////// */
@@ -8036,16 +7932,14 @@ footer {
     padding: 0px;
   }
 
-  .footer-sub-container-two>.footer-para {
+  .footer-sub-container-two > .footer-para {
     font-size: 14px;
     padding: 0;
   }
-
 }
 
 /* 6th size of media Query from mobile to large size of lcd////////////////////////// */
 @media (max-width: 1199px) and (min-width: 992px) {
-
   /* header ///////////////////// */
   .container {
     width: 970px;
@@ -8086,14 +7980,12 @@ footer {
     display: flex;
   }
 
-  
-.manu-items {
-  font-size: 20px;
-}
+  .manu-items {
+    font-size: 20px;
+  }
   .navbar-items-right {
     display: block;
   }
-
 
   .sign-out {
     font-size: 18px;
@@ -8603,17 +8495,16 @@ footer {
   }
 
   .books-or-cap {
-    content: url('/assets/images/image\ 33\.png');
+    content: url("/assets/images/image\ 33\.png");
   }
 
-.books-cap {
-  width: 60px;
-  height: 60px;
-}
+  .books-cap {
+    width: 60px;
+    height: 60px;
+  }
 
   .your-audio-call {
     gap: 14px;
-    
   }
 
   .audio-call-heading {
@@ -8630,11 +8521,11 @@ footer {
     margin-top: 16px;
     justify-content: center;
     align-items: center;
-    gap: 25px
+    gap: 25px;
   }
 
   .remains-lives-outer {
-    border: 5px solid #2B788B;
+    border: 5px solid #2b788b;
   }
 
   .same-main {
@@ -8785,7 +8676,6 @@ footer {
     line-height: 100%;
     padding: 12px 13px;
     letter-spacing: -0.04em;
-
   }
 
   .options-para {
@@ -8817,7 +8707,6 @@ footer {
     content: "I don't know";
     text-indent: 0;
     line-height: initial;
-
   }
 
   .food-para {
@@ -8862,7 +8751,6 @@ footer {
 
   .about-heading {
     font-size: 34px;
-
   }
 
   .github-button {
@@ -8916,8 +8804,8 @@ footer {
 
   .classbook-icon {
     font-size: 22px;
-    Width: 28px;
-    Height: 23px;
+    width: 28px;
+    height: 23px;
   }
 
   .classbook-heading {
@@ -8938,8 +8826,6 @@ footer {
     width: auto;
     justify-content: center;
   }
-
-
 
   .classbook-category {
     width: auto;
@@ -9008,7 +8894,6 @@ footer {
     display: flex;
     justify-content: space-between;
     width: 275px;
-
   }
 
   .card-music-icon {
@@ -9080,7 +8965,7 @@ footer {
 
   .page-circle {
     width: 33px;
-    height: 33px
+    height: 33px;
   }
 
   /* footer //////////////////////////////////////// */
@@ -9130,7 +9015,7 @@ footer {
     font-size: 18px;
   }
 
-  .footer-sub-container-two>.footer-para {
+  .footer-sub-container-two > .footer-para {
     font-size: 14px;
     padding: 0;
   }
